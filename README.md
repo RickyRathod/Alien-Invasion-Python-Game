@@ -1,0 +1,1 @@
+In this game, players control a ship at the bottom of the screen, moving left and right to shoot down rows of descending aliens. As the levels progress, the aliens move faster and become more challenging to defeat.
